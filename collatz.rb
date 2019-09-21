@@ -35,4 +35,4 @@ puts "When (n) is equal to:"
 puts num
 puts "It produces a Collatz sequence of:"
 puts score
-#puts "---------------"
+puts "---------------"
